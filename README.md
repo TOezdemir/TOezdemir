@@ -55,6 +55,9 @@ Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anfo
    Implementierung von eProcurement-Softwarelösungen
 🔹 Web Development Bootcamp (2024)
    Fullstack-Entwicklung mit TypeScript, React, Node.js
+🔹 Strategischer Projekteinkäufer / Leadbuyer (ca. 2019 – 2024)
+   Eigenverantwortliche Steuerung von Einkaufsprojekten,
+   Lieferantenverhandlungen & cross-funktionale Zusammenarbeit
 ```
 
 ---
