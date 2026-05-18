@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Technical Solution Consultant · Web Developer · Lifelong Learner</b><br/>
-  📍 Dortmund, Germany
+  📍 Haltern am See, Germany
 </p>
 
 ---
@@ -41,49 +41,34 @@ Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anfo
 
 | Projekt | Beschreibung | Tech |
 |---------|-------------|------|
+| [🥘 Rezepte](https://github.com/TOezdemir/recipes) | Digitale Rezeptsammlung mit Suchfunktion und Kategorien | React, TypeScript, CSS |
 | [🌙 Silent Moon](https://github.com/TOezdemir/Abschlussprojekt-Silent-Moon) | Abschlussprojekt: Meditations- & Wellness-App | TypeScript, React |
 | [🌤️ Wetter App](https://github.com/TOezdemir/projekt-wetter-app) | Echtzeit-Wettervorhersage via API | TypeScript, React |
 | [⚡ PokéAPI App](https://github.com/TOezdemir/react-projekt-pokeApi) | Pokémon-Browser mit externer REST-API | TypeScript, React |
-| [🥪 Panini Projekt](https://github.com/TOezdemir/ts-project-panini) | Interaktive TypeScript-Anwendung | TypeScript |
 
 ---
 
 ## 💼 Beruflicher Werdegang
 
 ```
-🔹 Technical Solution Consultant    (2025 – heute)
+🔹 Technical Solution Consultant (2025 – heute)
    Implementierung von eProcurement-Softwarelösungen
-
-🔹 Web Development Bootcamp         (2024)
-   SuperCode GmbH – Full-Stack JavaScript/TypeScript
-
-🔹 Strategischer Einkäufer          (2019 – 2024)
-   Projekteinkauf & strategischer Einkauf in der Industrie
+🔹 Web Development Bootcamp (2024)
+   Fullstack-Entwicklung mit TypeScript, React, Node.js
 ```
-
----
-
-## 🎓 Ausbildung
-
-- 🎓 **Bachelor of Arts** – International Business and Social Sciences, Hochschule Rhein-Waal
-- 📚 Sozioökonomie (Studium), Universität Duisburg-Essen
 
 ---
 
 ## 📫 Kontakt
 
-<p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/tolgay-oezdemir">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kontakt@tolgay-oezdemir.de">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/TOezdemir">
-    <img src="https://img.shields.io/badge/GitHub-TOezdemir-181717?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tolgay-özdemir">
-    <img src="https://img.shields.io/badge/LinkedIn-Tolgay%20Özdemir-0A66C2?style=flat&logo=linkedin" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>„Technologie ist nur so gut wie das Verständnis für die Menschen, die sie nutzen."</i>
-</p>
+</div>
