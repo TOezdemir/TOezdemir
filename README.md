@@ -65,7 +65,7 @@ Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anfo
   <a href="https://www.linkedin.com/in/tolgay-oezdemir">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kontakt@tolgay-oezdemir.de">
+  <a href="mailto:tolgay.oezdemir@hsrw.org">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/TOezdemir">
