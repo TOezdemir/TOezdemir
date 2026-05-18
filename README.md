@@ -41,10 +41,10 @@ Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anfo
 
 | Projekt | Beschreibung | Tech |
 |---------|-------------|------|
-| [🥘 Rezepte](https://github.com/TOezdemir/recipes) | Digitale Rezeptsammlung mit Suchfunktion und Kategorien | React, TypeScript, CSS |
+| [🥘 Rezepte](https://github.com/TOezdemir/project-recipebook) | Digitale Rezeptsammlung mit Suchfunktion und Kategorien | React, TypeScript, Supabase |
 | [🌙 Silent Moon](https://github.com/TOezdemir/Abschlussprojekt-Silent-Moon) | Abschlussprojekt: Meditations- & Wellness-App | TypeScript, React |
-| [🌤️ Wetter App](https://github.com/TOezdemir/projekt-wetter-app) | Echtzeit-Wettervorhersage via API | TypeScript, React |
-| [⚡ PokéAPI App](https://github.com/TOezdemir/react-projekt-pokeApi) | Pokémon-Browser mit externer REST-API | TypeScript, React |
+| [🌤️ Wetter App](https://github.com/TOezdemir/project-weather-app) | Echtzeit-Wettervorhersage via API | TypeScript, React |
+| [⚡ PokéAPI App](https://github.com/TOezdemir/project-pokeapi) | Pokémon-Browser mit externer REST-API | TypeScript, React |
 
 ---
 
