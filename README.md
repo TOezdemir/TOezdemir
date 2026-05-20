@@ -24,11 +24,13 @@ Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anfo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 **Backend & Datenbanken**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 **Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -51,7 +53,7 @@ Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anfo
 ## 💼 Beruflicher Werdegang
 
 ```
-🔹 Technical Solution Consultant (2025 – heute)
+🔹 Technical Solution Consultant (2025)
    Implementierung von eProcurement-Softwarelösungen
 🔹 Web Development Bootcamp (2024)
    Fullstack-Entwicklung mit TypeScript, React, Node.js
