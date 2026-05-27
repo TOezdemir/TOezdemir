@@ -5,6 +5,12 @@
   📍 Haltern am See, Germany
 </p>
 
+<p align="center">
+  <a href="https://tolgay-oezdemir.de">
+    <img src="https://img.shields.io/badge/Portfolio-tolgay--oezdemir.de-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 Über mich
@@ -45,6 +51,7 @@ Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anfo
 
 | Projekt | Beschreibung | Tech |
 |---------|-------------|------|
+| [🌐 Portfolio](https://github.com/TOezdemir/portfolio) | Persönliche Portfolio-Website – live unter [tolgay-oezdemir.de](https://tolgay-oezdemir.de) | HTML, CSS, JavaScript |
 | [🥘 Rezepte](https://github.com/TOezdemir/project-recipebook) | Digitale Rezeptsammlung mit Suchfunktion und Kategorien | React, TypeScript, Supabase |
 | [🌙 Silent Moon](https://github.com/TOezdemir/Abschlussprojekt-Silent-Moon) | Abschlussprojekt: Meditations- & Wellness-App | TypeScript, React |
 | [🌤️ Wetter App](https://github.com/TOezdemir/project-weather-app) | Echtzeit-Wettervorhersage via API | TypeScript, React |
@@ -56,7 +63,9 @@ Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anfo
 
 ```
 🔹 Technical Solution Consultant (2025)
-   Implementierung von eProcurement-Softwarelösungen
+   Implementierung von eProcurement-Softwarelösungen (Ivalua)
+   Consulting Cases: Solution Design Workshop (van Laack & Partners),
+   Requirements Engineering im eProcurement (Parasus)
 🔹 Web Development Bootcamp (2024)
    Fullstack-Entwicklung mit TypeScript, React, Node.js
 🔹 Strategischer Projekteinkäufer / Leadbuyer (ca. 2019 – 2024)
@@ -69,12 +78,18 @@ Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anfo
 ## 📫 Kontakt
 
 <div align="center">
+  <a href="https://tolgay-oezdemir.de">
+    <img src="https://img.shields.io/badge/Portfolio-tolgay--oezdemir.de-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/tolgay-oezdemir">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:tolgay.oezdemir@hsrw.org">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/TOezdemir">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
