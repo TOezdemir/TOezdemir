@@ -45,6 +45,16 @@ Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anfo
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
+**AI Literacy**
+![Perplexity](https://img.shields.io/badge/Perplexity_AI-20808D?style=flat&logo=perplexity&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat&logo=github&logoColor=white)
+
+> Proficient AI User – aktiver, kritischer Einsatz von KI-Tools im Entwicklungsalltag:
+> Prompt Engineering, Co-Coding, Workflow-Automatisierung, Verifikation von Ergebnissen.
+> Bewusstsein für Halluzinationen, Kontextgrenzen und systemischen Bias.
+
 ---
 
 ## 🚀 Projekte
