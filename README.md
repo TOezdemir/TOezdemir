@@ -1,4 +1,4 @@
-<h1 align="center">Hi, ich bin Tolgay 👋</h1>
+<h1 align="center">Hi, I am Tolgay 👋</h1>
 
 <p align="center">
   <b>Technical Solution Consultant · Web Developer · Lifelong Learner</b><br/>
