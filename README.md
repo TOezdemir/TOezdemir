@@ -91,14 +91,14 @@ user-oriented, and maintainable solutions.
 
 ---
 
-## 🚀 Projekte
+## 🚀 Projects
 
-| Projekt | Beschreibung | Tech |
+| Project | Description | Tech |
 |---------|-------------|------|
 | [🌐 Portfolio](https://github.com/TOezdemir/portfolio) | Persönliche Portfolio-Website – live unter [tolgay-oezdemir.de](https://tolgay-oezdemir.de) | HTML, CSS, JavaScript |
-| [🥘 Rezepte](https://github.com/TOezdemir/project-recipebook) | Digitale Rezeptsammlung mit Suchfunktion und Kategorien | React, TypeScript, Supabase |
+| [🥘 Recipes](https://github.com/TOezdemir/project-recipebook) | Digitale Rezeptsammlung mit Suchfunktion und Kategorien | React, TypeScript, Supabase |
 | [🌙 Silent Moon](https://github.com/TOezdemir/Abschlussprojekt-Silent-Moon) | Abschlussprojekt: Meditations- & Wellness-App | TypeScript, React |
-| [🌤️ Wetter App](https://github.com/TOezdemir/project-weather-app) | Echtzeit-Wettervorhersage via API | TypeScript, React |
+| [🌤️ Weather App](https://github.com/TOezdemir/project-weather-app) | Echtzeit-Wettervorhersage via API | TypeScript, React |
 | [⚡ PokéAPI App](https://github.com/TOezdemir/project-pokeapi) | Pokémon-Browser mit externer REST-API | TypeScript, React |
 
 ---
@@ -119,7 +119,7 @@ user-oriented, and maintainable solutions.
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
 <div align="center">
   <a href="https://tolgay-oezdemir.de">
