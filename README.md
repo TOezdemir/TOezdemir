@@ -13,11 +13,45 @@
 
 ---
 
-## 👨‍💻 Über mich
+## 👋 About me
 
-Ich bin ein Professional mit interdisziplinärem Hintergrund: Von mehreren Jahren als **Strategischer Einkäufer** über ein intensives **Web-Development-Bootcamp** bis hin zur Rolle als **Technical Solution Consultant** – ich bringe das Beste aus beiden Welten zusammen.
+I work at the intersection of **strategic procurement, process improvement,
+and digital transformation**.
 
-Ich verstehe sowohl die technische Seite von Softwarelösungen als auch die Anforderungen von Unternehmen aus dem Einkaufsumfeld. Diese Kombination ermöglicht es mir, als Brücke zwischen Stakeholdern und Entwicklungsteams zu agieren.
+My background combines more than five years of project-based technical
+procurement with hands-on experience in procurement technology. I have managed
+CapEx-dominated sourcing across multiple industrial projects with a total
+procurement volume of approximately **€8–16M**.
+
+Today, I combine business-process understanding with technical implementation:
+**Ivalua, process analysis, SQL-based data migration, system configuration,
+and modern web technologies.**
+
+## 🎯 Professional focus
+
+- Strategic procurement and project purchasing
+- Supplier management, commercial negotiations, and delivery coordination
+- Procurement transformation and eProcurement
+- Ivalua implementation, process analysis, and requirements translation
+- SQL-based data migration, data quality, and system configuration
+- Digital workflows, business analysis, and technical solution consulting
+
+## 🏭 Professional context
+
+- Sole buyer for CapEx-dominated industrial plant-engineering procurement
+- International supplier and stakeholder coordination
+- Experience with technical components, instruments, motors, gearboxes,
+  project-related services, and lifecycle-related purchasing activities
+- Ivalua L1 Fundamentals and L2 Administration certified
+
+## 🧩 What you will find here
+
+Alongside my professional focus on procurement transformation, this GitHub
+profile documents my technical upskilling and hands-on projects with
+TypeScript, React, Node.js, PostgreSQL, Supabase, and modern web development.
+
+I use technology to translate business requirements into structured,
+user-oriented, and maintainable solutions.
 
 ---
 
