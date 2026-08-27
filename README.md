@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Tolgay 👋</h1>
 
 <p align="center">
-  <b>Technical Solution Consultant · Web Developer · Lifelong Learner</b><br/>
+  <b>Procurement Transformation · Technical Solution Consulting · Digital Processes</b><br/>
   📍 Haltern am See, Germany
 </p>
 
@@ -38,11 +38,17 @@ and modern web technologies.**
 
 ## 🏭 Professional context
 
-- Sole buyer for CapEx-dominated industrial plant-engineering procurement
+- Sole buyer for CapEx-dominated procurement across multiple industrial plant-engineering projects
 - International supplier and stakeholder coordination
 - Experience with technical components, instruments, motors, gearboxes,
   project-related services, and lifecycle-related purchasing activities
 - Ivalua L1 Fundamentals and L2 Administration certified
+
+## 🌍 Languages
+
+German and Turkish: native or bilingual  
+English: full professional proficiency  
+Dutch and Chinese: elementary
 
 ## 🧩 What you will find here
 
@@ -79,15 +85,15 @@ user-oriented, and maintainable solutions.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
-**AI Literacy**
+**AI literacy**
 ![Perplexity](https://img.shields.io/badge/Perplexity_AI-20808D?style=flat&logo=perplexity&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat&logo=github&logoColor=white)
 
-> Proficient AI User – aktiver, kritischer Einsatz von KI-Tools im Entwicklungsalltag:
-> Prompt Engineering, Co-Coding, Workflow-Automatisierung, Verifikation von Ergebnissen.
-> Bewusstsein für Halluzinationen, Kontextgrenzen und systemischen Bias.
+> Proficient AI User – active, critical use of AI tools in day-to-day development:
+> Prompt engineering, co-coding, workflow automation, verification of results.
+> Awareness of hallucinations, contextual limitations and systemic bias.
 
 ---
 
@@ -95,26 +101,26 @@ user-oriented, and maintainable solutions.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🌐 Portfolio](https://github.com/TOezdemir/portfolio) | Persönliche Portfolio-Website – live unter [tolgay-oezdemir.de](https://tolgay-oezdemir.de) | HTML, CSS, JavaScript |
-| [🥘 Recipes](https://github.com/TOezdemir/project-recipebook) | Digitale Rezeptsammlung mit Suchfunktion und Kategorien | React, TypeScript, Supabase |
-| [🌙 Silent Moon](https://github.com/TOezdemir/Abschlussprojekt-Silent-Moon) | Abschlussprojekt: Meditations- & Wellness-App | TypeScript, React |
-| [🌤️ Weather App](https://github.com/TOezdemir/project-weather-app) | Echtzeit-Wettervorhersage via API | TypeScript, React |
-| [⚡ PokéAPI App](https://github.com/TOezdemir/project-pokeapi) | Pokémon-Browser mit externer REST-API | TypeScript, React |
+| [🌐 Portfolio](https://github.com/TOezdemir/portfolio) | Personal portfolio website – live at [tolgay-oezdemir.de](https://tolgay-oezdemir.de) | HTML, CSS, JavaScript |
+| [🥘 Recipes](https://github.com/TOezdemir/project-recipebook) | Digital recipe collection with search function and categories | React, TypeScript, Supabase |
+| [🌙 Silent Moon](https://github.com/TOezdemir/Abschlussprojekt-Silent-Moon) | Final project: meditation and wellness app | TypeScript, React |
+| [🌤️ Weather App](https://github.com/TOezdemir/project-weather-app) | Real-time weather forecast via API | TypeScript, React |
+| [⚡ PokéAPI App](https://github.com/TOezdemir/project-pokeapi) | Pokémon browser with external REST API | TypeScript, React |
 
 ---
 
-## 💼 Beruflicher Werdegang
+## 💼 Career
 
 ```
 🔹 Technical Solution Consultant (2025)
-   Implementierung von eProcurement-Softwarelösungen (Ivalua)
-   Consulting Cases: Solution Design Workshop (van Laack & Partners),
-   Requirements Engineering im eProcurement (Parasus)
+   Implementation of e-procurement software solutions (Ivalua)
+   Consulting projects: Solution Design Workshop (van Laack & Partners),
+   Requirements engineering in e-procurement (Parasus)
 🔹 Web Development Bootcamp (2024)
-   Fullstack-Entwicklung mit TypeScript, React, Node.js
-🔹 Strategischer Projekteinkäufer / Leadbuyer (ca. 2019 – 2024)
-   Eigenverantwortliche Steuerung von Einkaufsprojekten,
-   Lieferantenverhandlungen & cross-funktionale Zusammenarbeit
+   Full-stack development with TypeScript, React and Node.js
+🔹 Strategic Project Buyer / Lead Buyer (approx. 2019 – 2024)
+   Independently managing procurement projects,
+   supplier negotiations and cross-functional collaboration
 ```
 
 ---
